@@ -1,0 +1,9 @@
+body  {
+	background-color: rgba(128, 128, 128, 0.38);
+}
+#logo {
+	width: 60px;
+	height: 60px;
+}
+.links {
+	color: rgba(0, 111, 255, 0.57);	
